@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Eder Allen
 
-<!--
-**ederallen27/ederallen27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Desenvolvedor em formação | Criador do site [www.theraprime.es](https://www.theraprime.es) e do sistema [app.theraprime.es](https://app.theraprime.es)
 
-Here are some ideas to get you started:
+## 🚀 Meus Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 TheraPrime – Sistema de Gestão
+Aplicação web completa para gestão de clientes.
+
+- **Repositório:** [github.com/ederallen27/theraprime](https://github.com/ederallen27/theraprime)
+- **Acesso:** [app.theraprime.es](https://app.theraprime.es)
+- **Tecnologias:** Python, Flask, PostgreSQL, SQLite, Bootstrap, Chart.js, pytest
+
+### 🌐 Site Institucional
+Site construído em WordPress com personalização HTML/CSS.
+
+- **Acesso:** [www.theraprime.es](https://www.theraprime.es)
+
+## 🛠️ Tecnologias que utilizo
+
+Python | Flask | PostgreSQL | SQLite | Bootstrap | Chart.js | pytest | WordPress
+
+## 📫 Contato
+
+- **GitHub:** [github.com/ederallen27](https://github.com/ederallen27)
+- **LinkedIn:** [linkedin.com/in/ederallen](https://www.linkedin.com/in/ederallen)
