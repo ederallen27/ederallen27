@@ -5,7 +5,7 @@
 ## 🚀 Meus Projetos
 
 ### 💼 TheraPrime – Sistema de Gestão
-Aplicação web completa para gestão de clientes.
+Aplicativo web completo para gestão de clientes.
 
 - **Repositório:** [github.com/ederallen27/theraprime](https://github.com/ederallen27/theraprime)
 - **Acesso:** [app.theraprime.es](https://app.theraprime.es)
