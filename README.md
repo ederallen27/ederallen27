@@ -72,15 +72,6 @@ Chatbot para WhatsApp com fluxo automatizado de atendimento, integrado ao sistem
 
 ---
 
-### TheraPrime (Site Institucional)
-Site institucional para serviços de bem-estar, com design responsivo e páginas informativas.
-
-- **Tecnologias:** Flask, HTML, CSS, JavaScript
-- **Deploy:** [theraprime.onrender.com](https://theraprime.onrender.com)
-- **Repositório:** [github.com/ederallen27/theraprime](https://github.com/ederallen27/theraprime)
-
----
-
 ## Diferenciais
 
 - Visão de produto: compreensão das necessidades do cliente e entrega de soluções completas e funcionais.
